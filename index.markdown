@@ -9,4 +9,4 @@ title: ''
 
 Welcome to Scoot Technology!
 
-Here I will be posting blogs, tutorials, reviews and projects covering many areas of technology including computing, hi-fi, smart home and lots more...
+Blogs, tutorials and reviews for hi-fi and smart home enthusiasts.

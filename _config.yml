@@ -21,7 +21,7 @@
 title: Scoot Technology
 email: scoot.technology@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technology blogs, reviews & tutorials covering computing, hi-fi, smart home and much more...
+  Technology blogs, reviews & tutorials for hi-fi and smart home enthusiasts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  scoot-technology

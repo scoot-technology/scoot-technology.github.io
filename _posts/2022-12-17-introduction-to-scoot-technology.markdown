@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Scoot Technology"
 date:   2022-12-17
-categories: general
+categories: General
 feature_image: android-chrome-192x192.png
 ---
 

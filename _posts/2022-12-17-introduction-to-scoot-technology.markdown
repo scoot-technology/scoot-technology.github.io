@@ -4,6 +4,7 @@ title:  "Introduction to Scoot Technology"
 date:   2022-12-17
 categories: General
 feature_image: android-chrome-192x192.png
+excerpt: Who am I and what is this Scoot Technology thing about...
 ---
 
 First of all welcome to Scoot Technology! In this first post I thought it would be good to give some background on me and the purpose of the Scoot Technology project. So here we go...

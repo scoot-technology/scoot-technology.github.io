@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<link href="/css/home.css?v=" rel="stylesheet" type="text/css">
 <div class="home">
     {% if page.title %}
       <h1 class="page-heading">{{ page.title }}</h1>
@@ -27,9 +27,9 @@ layout: default
             {% endif %}
           </div>
           {% if post.feature_image %}
-            <div class="feature-image">
-              <img src="{{ post.feature_image | relative_url }}" />
-            </div>
+          <div class="featured-image">
+            <img src="{{ post.feature_image | relative_url }}" />
+          </div>
           {% endif %}
         </li>
         {% endfor %}

@@ -68,6 +68,8 @@ The USB output can be used to connect the turntable to a PC in order to digitise
 
 ![rear_panel_left]({{ "assets/audio_technica_lp5x/rear_panel_right.jpg" | relative_url }})
 
+[Click Here](https://github.com/scoot-technology/scoot-technology-resources/tree/main/vm95e_vs_vm95ml) for sample recordings from the AT-LP5x USB output.
+
 # Performance
 
 Turn the dial to your desired speed and the motor starts up quickly with a faint chugging as speed stabilises. Torque isn't as strong as many direct-drive turntables but is more than adequate. No fancy automatic stop/start or auto-cueing to be found here but the cueing mechanism lifts and lowers the tonearm effectively. Initial impressions are that the pairing of preamp and AT-VM95E cartridge is a good one. Tonal balance appears reasonably neutral but does favour a warmer presentation with solid bass and midrange without any exaggerated highs. Those looking for a digital sounding presentation of their vinyl will need to look elsewhere or try a different cartridge. For me the balance is generally good although I do feel like a different stylus variant or perhaps better quality external preamp would be able to extract more high frequency detail and add some extra definition to more complex basslines but at this price point it's a great start.

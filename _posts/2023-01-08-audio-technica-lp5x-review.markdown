@@ -2,13 +2,14 @@
 layout: post
 title:  "Audio Technica AT-LP5x Review"
 date:   2023-01-08
-categories: [Reviews, Turntable]
-feature_image: assets/audio_technica_lp5x/lp5x_1.jpg
+categories: [Reviews, Hi-Fi, Turntable]
+feature_image: assets/audio_technica_lp5x/lp5x_feature_image.jpg
+excerpt: If direct-drive appeals and your budget doesn't stretch to Technics the Audio Technica LP5x is the best place to look. The LP5x strikes a good balance between functionality and sound quality which at this price point is hard to beat.
 ---
 
-On inheriting a collection of records I resisted the temptation to get back into vinyl for a while but on the lead up to Christmas I convinced myself it was an itch I had to scratch and so began the search for a new turntable. I was in my teens the last time I had a turntable so this really was starting from zero trying to decipher all of the jargon and strong opinions in the world of vinyl.
+On inheriting a collection of records I resisted the temptation to get back into vinyl for a while but on the lead up to Christmas I convinced myself it was an itch I had to scratch and so began the search for a new turntable.
 
-The first thing to decide was budget and given this was a bit of a whim I wasn't willing to go nuts but I also wanted to make this a worthwhile venture which had me looking at upper entry-level to mid-range turntables. The next thing to decide given the budget was vintage vs new; a hotly debated topic. By this point I was eager to get sorting the record collection sat in the spare room so decided new was the way to go. I started my search looking at decks from the likes of Rega, Pro-Ject, Fluance and Audio Technica to name a few. The last turntable I used was my dad's Akai AP-206 direct-drive deck from the 70s which I remember fondly and I quickly decided that whilst the belt-drive decks from Rega and Pro-Ject were likely the way to go in terms of sound quality, things like manually shifting a belt to change speeds was a step too far. This significantly cut down my options and inevitably I decided I wanted a Technics SL-1500C but then I remembered I had a budget which kept landing me back at the Audio Technica AT-LP5x. After much deliberation I placed an order...
+I was in my teens the last time I had a turntable so this really was starting from zero trying to decipher all of the jargon and strong opinions in the world of vinyl. The first thing to decide was budget and given this was a bit of a whim I wasn't willing to go nuts but I also wanted to make this a worthwhile venture which had me looking at upper entry-level to mid-range turntables. The next thing to decide given the budget was vintage vs new; a hotly debated topic. By this point I was eager to get sorting the record collection sat in the spare room so decided new was the way to go. I started my search looking at decks from the likes of Rega, Pro-Ject, Fluance and Audio Technica to name a few. The last turntable I used was my dad's Akai AP-206 direct-drive deck from the 70s which I remember fondly and I quickly decided that whilst the belt-drive decks from Rega and Pro-Ject were likely the way to go in terms of sound quality, things like manually shifting a belt to change speeds was a step too far. This significantly cut down my options and inevitably I decided I wanted a Technics SL-1500C but then I remembered I had a budget which kept landing me back at the Audio Technica AT-LP5x. After much deliberation I placed an order...
 
 # Overview
 

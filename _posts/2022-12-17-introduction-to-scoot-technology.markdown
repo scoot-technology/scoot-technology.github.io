@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction to Scoot Technology"
 date:   2022-12-17
 categories: General
-feature_image: android-chrome-192x192.png
+feature_image: /assets/general/icon_feature_image.jpg
 excerpt: Who am I and what is this Scoot Technology thing about...
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Multi-room Audio With Snapcast"
 date:   2023-02-26
 categories: [Hi-Fi, Computing, Snapcast]
-feature_image: assets/snapcast/snapcast_logo.png
+feature_image: assets/snapcast/snapcast_feature_image.jpg
 excerpt: There is an endless list of proprietary multi-room audio solutions available in the market today which can make choosing the one for you a lengthy process. But what if you want to break free of proprietary solutions with limited hardware options and closed ecosystems? Snapcast could be the solution for you!
 ---
 

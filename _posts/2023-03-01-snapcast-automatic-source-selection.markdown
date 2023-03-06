@@ -3,7 +3,7 @@ layout: post
 title:  "Snapcast Automatic Source Selection"
 date:   2023-03-01
 categories: [Computing, Snapcast]
-feature_image: assets/snapcast/snapcast_logo.png
+feature_image: assets/snapcast/snapcast_feature_image.jpg
 excerpt: Learn how meta sources can be used to make Snapcast source selection automatic.
 ---
 

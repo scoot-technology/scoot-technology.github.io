@@ -145,4 +145,4 @@ To change the ***Default music speaker*** so that your Google Assistant defaults
 # Conclusion
 Whilst it's definitely a bonus to break free from closed ecosystems like Google Cast it's undoubtedly convenient to still have it as an option. Integrating a Chromecast device as a source for your Snapcast based multi-room setup gives you the ability to cast music or audio from your favourite apps and have it streamed around the home without being limited to Google Cast enabled speakers and devices. Admittedly it's not the most elegant of solutions but it's nice to have a multi-room setup with the ability to support Google Cast alongside the likes of AirPlay and Spotify Connect.
 
-Stay tuned for most [Snapcast](https://mjaggard.github.io/snapcast/) related posts in the near future!
+Stay tuned for more [Snapcast](https://mjaggard.github.io/snapcast/) related posts in the near future!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Genesis Abacab - Original vs 2016 Remaster (Vinyl)"
+title:  "Genesis Abacab - Original vs 2016 Remaster - Vinyl Comparison"
 date:   2023-08-26
 categories: [Reviews, Music]
 feature_image: assets/album_covers/genesis_abacab.jpg

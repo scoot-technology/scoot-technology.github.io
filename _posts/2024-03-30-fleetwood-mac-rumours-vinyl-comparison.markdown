@@ -12,7 +12,7 @@ excerpt: Rumours by Fleetwood Mac needs little introduction owing to the albums 
 </p>
 
 
-*Rumours* is the eleventh studio album released by Fleetwood Mac and the second featuring Lindsey Buckingham and Stevie Nicks. The album was an instant commercial success sparking several singles including *Go Your Own Way*, *Dreams* and *Don't Stop*. There is much speculation around the recording process and subsequent release and indeed several variations of album songs have appeared over the years. Following the original release the album has subsequently been remastered for various formats often with subtle song variations and lengths. In this review we will compare an [original Canadian (BSK 3010)](https://www.discogs.com/release/1699603-Fleetwood-Mac-Rumours) pressing and the more recent [2021 reissue](https://www.discogs.com/release/22040284-Fleetwood-Mac-Rumours) cut by Chris Bellman.
+*Rumours* is the eleventh studio album released by Fleetwood Mac and the second featuring Lindsey Buckingham and Stevie Nicks. The album was an instant commercial success sparking several singles including *Go Your Own Way*, *Dreams* and *Don't Stop*. Following the original release the album has subsequently been remastered for various formats often with subtle song variations and lengths. In this review we will compare an [original Canadian (BSK 3010)](https://www.discogs.com/release/1699603-Fleetwood-Mac-Rumours) pressing and the more recent [2021 reissue](https://www.discogs.com/release/22040284-Fleetwood-Mac-Rumours) cut by Chris Bellman.
 
 
 # Song Variations

@@ -42,7 +42,7 @@ For the opening track the 2021 master is missing the high frequency sparkle of t
 
 This is a more close run thing. The darker tones of this song suit the mastering choices on the 2021 reissue which has a bit more low-mid frequency detail and a more balanced presentation as a result. The 1977 again has more fizz up top so the guitar and drum parts have a bit more texture but overall I marginally prefer the 2021 master.
 
-# Dont't Stop
+# Don't Stop
 
 **Original 1977**
 <audio src="https://github.com/scoot-technology/scoot-technology-resources/raw/main/fleetwood_mac_rumours/don't_stop_1977.wav" controls preload></audio>

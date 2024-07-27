@@ -4,7 +4,7 @@ title:  "Peter Gabriel - So - Vinyl Comparison"
 date:   2024-07-26
 categories: [Reviews, Music]
 feature_image: assets/album_covers/pg_so.jpg
-excerpt: Rumours by Fleetwood Mac needs little introduction owing to the albums sustained popularity since it's 1977 release where it was an instant commercial success. Here we compare an original Canadian pressing (BSK 3010) with the recent 2021 cut by Chris Bellman.
+excerpt: So is the fifth studio album released by Peter Gabriel in 1986 making him a household name with hits such as Sledgehammer. Here we compare an original UK pressing with a half-speed remaster from 2016.
 ---
 
 <p align="center">
